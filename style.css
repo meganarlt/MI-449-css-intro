@@ -44,44 +44,10 @@ img {
   margin: 5px 5px;
 }
 
-
-/*
-body {
-  background-color: rgb(255, 255, 255); 
-  margin: auto;
-  font-family: 'Open Sans', Arial, sans-serif;
+a {
+  color: purple;
 }
 
-div, .square{
-  background-color: rgb(101,206,237); 
-  width: 715px;
-  height: 721px;
-  margin: auto;
+a:hover { 
+  color: orange;
 }
-
-
-.container header{
-  background-color: rgb(255,255,255);
-  height:118px;
-  margin: 0 auto;
-  max-width: 500px;
-}
-
-.container section{
-  background-color: rgb(255,255,255);
-  height:277px;
-  margin: 0 auto;
-  max-width: 500px;
-}
-
-h1, .tagline {
-  text-align: center;
-  top: 50%;
-}
-
-h2 {
-  margin: 69px 27px 58px 30px;
-}
-
-*/
-
