@@ -1,0 +1,87 @@
+
+body {
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+.container{
+  margin: 0 auto;
+  max-width: 480px;
+  border-color: rgb(101,206,237);
+  border-style: solid;
+  border-width: 8px 125px 20px 125px;
+}
+
+.container header{
+  background-color: rgb(255, 255, 255);
+  height:100px;
+  border: solid 10px rgb(101,206,237);
+  padding: 8px;
+}
+
+.container section{
+  background-color: rgb(255, 255, 255);
+  border: solid 10px rgb(101,206,237);
+  padding: 0px 15px;
+}
+
+h1, .tagline {
+  text-align: center;
+}
+
+
+span.city-description {
+  font-size: 13px;
+}
+
+h2 {
+  padding-bottom: 10px;
+  border-bottom: 2px solid rgb(217, 172, 130);
+}
+
+img {
+  width:46px;
+  height:46px;
+  margin: 5px 5px;
+}
+
+
+/*
+body {
+  background-color: rgb(255, 255, 255); 
+  margin: auto;
+  font-family: 'Open Sans', Arial, sans-serif;
+}
+
+div, .square{
+  background-color: rgb(101,206,237); 
+  width: 715px;
+  height: 721px;
+  margin: auto;
+}
+
+
+.container header{
+  background-color: rgb(255,255,255);
+  height:118px;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+.container section{
+  background-color: rgb(255,255,255);
+  height:277px;
+  margin: 0 auto;
+  max-width: 500px;
+}
+
+h1, .tagline {
+  text-align: center;
+  top: 50%;
+}
+
+h2 {
+  margin: 69px 27px 58px 30px;
+}
+
+*/
+
