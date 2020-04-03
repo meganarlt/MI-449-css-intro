@@ -7,7 +7,7 @@ body {
 .container header{
   margin: auto;
   background-color: rgb(255, 255, 255);
-  width: 500px;
+  max-width: 500px;
   border: solid 10px rgb(101,206,237);
   padding: 0px 15px;
 }
@@ -15,7 +15,7 @@ body {
 .container section{
   margin: auto;
   background-color: rgb(255, 255, 255);
-  width: 500px;
+  max-width: 500px;
   border: solid 10px rgb(101,206,237);
   padding: 0px 15px;
 }
@@ -35,19 +35,16 @@ h2 {
 }
 
 img {
-  width:46px;
+  max-width:46px;
   height:46px;
   margin: 5px 5px;
 }
 
-/* Create two equal columns that floats next to each other */
 .column {
   float: left;
-  width: 75%;
-  padding: 10px;
+  max-width: 75%;
 }
 
-/* Clear floats after the columns */
 .row:after {
   content: "";
   display: table;
